@@ -1,0 +1,63 @@
+body {
+    background-color: #ffebf0;
+    background-image: url(./fondos/corazon-1.svg); 
+    background-position: left;
+    background-size: 10% 10%;
+    background-repeat: repeat-y;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.parrafo1, .parrafo2, .parrafo3, .parrafo4 {
+    border: black 2px solid;
+}
+
+div {
+    text-align: center;
+    font-size: 1.210rem;
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.parrafo1 {
+    background-image: url(./fondos/manchas.png) ;
+    color: white;
+    text-align: center;
+    font-size: 1.210rem;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.parrafo2 {
+    background-image: url("./fondos/tallos.jpg");
+  padding: 0 70px;
+    color: #ffdd00;
+    text-align: center;
+    font-size: 1.210rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.parrafo3 {
+    background-image: url(./fondos/hexagonos.jpg) ;
+    color: #800000;
+    text-align: center;
+    font-size: 1.210rem;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.parrafo4 {
+    background-image: url(./fondos/estrellas.png) ;
+    text-align: center;
+    font-size: 1.210rem;
+    margin-left: 10%;
+    margin-right: 10%;
+}
